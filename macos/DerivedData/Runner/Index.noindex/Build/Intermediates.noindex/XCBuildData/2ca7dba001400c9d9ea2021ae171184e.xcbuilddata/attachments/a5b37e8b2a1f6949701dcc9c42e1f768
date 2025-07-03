@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/RunnerTests.build/Objects-normal/arm64/RunnerTests-master.d",
+    "diagnostics" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/RunnerTests.build/Objects-normal/arm64/RunnerTests-master.dia",
+    "emit-module-dependencies" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/RunnerTests.build/Objects-normal/arm64/RunnerTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/RunnerTests.build/Objects-normal/arm64/RunnerTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/RunnerTests.build/Objects-normal/arm64/RunnerTests-master.swiftdeps"
+  },
+  "/Users/forrest/code/flutter/beejson/macos/RunnerTests/RunnerTests.swift" : {
+
+  }
+}

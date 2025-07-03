@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-master.d",
+    "diagnostics" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-master.dia",
+    "emit-module-dependencies" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-master-emit-module.dia",
+    "swift-dependencies" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-master.swiftdeps"
+  },
+  "/Users/forrest/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4/darwin/shared_preferences_foundation/Sources/shared_preferences_foundation/SharedPreferencesPlugin.swift" : {
+
+  },
+  "/Users/forrest/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4/darwin/shared_preferences_foundation/Sources/shared_preferences_foundation/messages.g.swift" : {
+
+  }
+}

@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "4b8b2cc063def22acb4658f70fcb778603d46f5bad77dc8f66880fd87245c114"
+build_start_time: [1751360034, 832137000]
+build_end_time: [1751360039, 122650000]
+inputs:
+  ? "/Users/forrest/code/flutter/bejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1751360034, 719328556]
+  "/Users/forrest/code/flutter/bejson/macos/Flutter/GeneratedPluginRegistrant.swift": [1751353695, 543688773]
+  "/Users/forrest/code/flutter/bejson/macos/Runner/AppDelegate.swift": [1749274950, 255844822]
+  "/Users/forrest/code/flutter/bejson/macos/Runner/MainFlutterWindow.swift": [1749274950, 257102145]

@@ -1,0 +1,29 @@
+name: bejson
+description: "json to dart"
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: 1.4.0
+  shared_preferences: 2.5.3
+  extended_text_field: 16.0.2
+  flutter_popup: ^3.3.9
+  window_manager: 0.5.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+ 
+ 

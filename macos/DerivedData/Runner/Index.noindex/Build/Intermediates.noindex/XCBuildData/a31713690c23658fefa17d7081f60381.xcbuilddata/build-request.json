@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42483832d3c820398e9d40e1a6904b03fe"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4228cab1f188854e0a973e6ff6905c5ffe"
+    },
+    {
+      "guid" : "18c1723432283e0cc55f10a6dcfd9e02d14efa5122de29b6143434737a6a0e64"
+    },
+    {
+      "guid" : "18c1723432283e0cc55f10a6dcfd9e02a26d6e580d3222b86d62fb80ec380c14"
+    }
+  ],
+  "containerPath" : "/Users/forrest/code/flutter/beejson/macos/Runner.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/forrest/code/flutter/beejson/macos/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Build/Products",
+      "pchPath" : "/Users/forrest/code/flutter/beejson/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

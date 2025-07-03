@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "2f4f7fba3b47117d46afd0440f7088ad25b954c11b241968319421834fdbe32b"
+build_start_time: [1751521593, 110469000]
+build_end_time: [1751521593, 546346000]
+inputs:
+  "/Users/forrest/.pub-cache/hosted/pub.dev/window_size-0.1.0/macos/Classes/WindowSizePlugin.swift": [1751521334, 283606770]
