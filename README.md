@@ -4,9 +4,7 @@ that can be found in the LICENSE file. -->
 
 # BeeJson
 
-Language: [English](README.md) | 中文
-
-flutter开发的json2dart工具
+flutter开发的json to dart工具
 
 ## 版本兼容
 
