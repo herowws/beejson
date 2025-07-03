@@ -17,8 +17,8 @@ flutter开发的json to dart工具
 | Linux |  ✅   |  ❌   |   
 | MacOS|  ✅   |  ❌   | 
 | Windows |  ✅   |  ❌   | 
-| Android |  ❌  |  what are you fucking doing?   |   
-| IOS |  ❌  |  what are you fucking doing?   |     
+| Android |  ❌  |  Why do you want it to run on Android?   |   
+| IOS |  ❌  |  Why do you want it to run on IOS?     |     
 
 `It does not support Android and iOS, and it is not designed to run on mobile phones.`
 
