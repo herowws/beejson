@@ -6,6 +6,9 @@ that can be found in the LICENSE file. -->
 
 flutter开发的json to dart工具
 
+[BeeJson 在线 Demo](http://60.204.228.196/beejson/index.html)
+
+
 ## 版本兼容
 
 该插件仅保证能与 **stable 渠道的 Flutter SDK** 配合使用。
