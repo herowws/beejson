@@ -6,7 +6,7 @@ that can be found in the LICENSE file. -->
 
 flutter开发的json to dart工具
 
-[BeeJson 在线 Demo](http://60.204.228.196/beejson/index.html)
+[BeeJson 在线 Demo](http://www.chatgram.cn/beejson/index.html)
 
 
 ## 版本兼容
