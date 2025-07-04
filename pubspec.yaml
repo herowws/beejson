@@ -15,6 +15,7 @@ dependencies:
   extended_text_field: 16.0.2
   flutter_popup: ^3.3.9
   window_manager: 0.5.0
+  url_launcher: 6.3.1
 
 
 dev_dependencies:

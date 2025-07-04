@@ -7,6 +7,7 @@ import 'package:bejson/model/configure.dart';
 import 'package:bejson/utils/storage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class SettingPannel extends StatefulWidget {
   const SettingPannel(this.configure, {super.key});
@@ -35,6 +36,10 @@ class _SettingPannelState extends State<SettingPannel> {
     });
     Storages.to.set('config', jsonEncode(configure));
     debugPrint(configure.toJson().toString());
+  }
+
+  Future<void> launch(String url) async {
+    if (!await launchUrl(Uri.parse(url))) ;
   }
 
   @override
@@ -79,6 +84,20 @@ class _SettingPannelState extends State<SettingPannel> {
               );
             },
             child: Text('设置请求'),
+          ),
+          const Spacer(),
+          GestureDetector(
+            onTap: () {
+              launch('https://github.com/herowws/beejson');
+            },
+            behavior: HitTestBehavior.opaque,
+            child: Padding(
+              padding: EdgeInsets.only(bottom: 20),
+              child: Image.network(
+                'https://oss.dev33.cn/sa-token/img/github.png',
+                width: 60,
+              ),
+            ),
           ),
         ],
       ),
